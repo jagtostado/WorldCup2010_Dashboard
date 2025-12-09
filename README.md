@@ -28,6 +28,19 @@ You can explore the live dashboard here:
 - **Excel / CSV data** for preprocessing  
 - **Data visualization and storytelling** techniques  
 
+## 📁 Dataset Information
+
+The dataset used in this Tableau dashboard is based on publicly available data from **Kaggle**, related to the 2010 FIFA World Cup.  
+I enhanced and extended the dataset by adding additional metrics and calculated fields to improve the analytical depth of the visualizations.
+
+### 📊 Details
+- **Source:** Kaggle – *FIFA World Cup 2010 Dataset*  
+- **Modifications:** Added new variables such as performance ratios, goal differences, and match outcome indicators.  
+- **Format:** CSV file  
+- **Size:** Approximately a few hundred rows (match-level and player-level data).  
+
+If you’d like to explore or reuse the data, you can download it from the [`data/`](./data/) folder of this repository.
+
 ---
 
 ## 👤 Author
